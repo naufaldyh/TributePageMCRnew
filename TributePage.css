@@ -1,0 +1,163 @@
+@import url("https://fonts.googleapis.com/css2?family=Mate+SC&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+  background-color: darkslategray
+  font-family: "Mate SC", serif;
+  padding: 30px;
+  font-size: 20px;
+}
+
+img {
+  height: 70px;
+}
+
+.logo {
+  color: white;
+  text-decoration: none;
+  margin: 0;
+}
+div .sublogo {
+  color:yellow;
+  text-decoration: none;
+  margin: 0 10px;
+  text-align: end;
+  font-size: 25px;
+}
+
+.container {
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+}
+#title {
+  color: white;
+  font-family: "Mate SC", serif;
+  font-size: 80px;
+  text-align: center;
+}
+
+
+#tribute-link {
+    color: yellow;
+    text-decoration: none;
+    margin: 0 10px;
+    text-align: end;
+    font-size: 25px;
+}
+
+#container2 {
+  padding: 0 30px;
+}
+
+.subcon2 {
+  text-align: left;
+  font-size: 40px;
+  color: white;
+  font-family: sans-serif;
+}
+
+p {
+   color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+}
+
+#image {
+  width: 70%;
+  height: auto;
+  display: block;
+  margin: auto;
+  max-width: 80%;
+  
+}
+
+figcaption {
+  color: white;
+}
+
+#container3 {
+  padding: 0 30px;
+}
+
+.subcon3 {
+  text-align: left;
+  font-size: 40px;
+  color: white;
+  font-family: "Mate SC", serif;
+}
+
+.album {
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+.album1 {
+  width: 200px;
+  height: 200px;
+}
+
+.album2 {
+  width: 200px;
+  height: 200px;
+}
+.album3 {
+  width: 200px;
+  height: 200px;
+}
+.album4 {
+  width: 200px;
+  height: 200px;
+}
+
+#container4{
+  padding: 0 30px;
+}
+.subcon4 {
+  text-align: left;
+  font-size: 40px;
+  color: white;
+  font-family: "Mate SC", serif;
+}
+
+.videoclip {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#container5 {
+  padding: 0 30px;
+  text-align: center;
+  padding-bottom: 50PX;
+}
+
+.follow {
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  font-family: "Mate SC", serif;
+  margin-top: 100px;
+}
+
+ {
+  
+
+}
+
+.footer {
+  text-align: center;
+  font-size: 15px;
+  color: white;
+  font-family: sans-serif;
+}
